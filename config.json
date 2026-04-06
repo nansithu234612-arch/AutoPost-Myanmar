@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "user_name": "Ei Ei Phyo",
+      "page_id": "YOUR_PAGE_ID",
+      "access_token": "YOUR_ACCESS_TOKEN",
+      "template": "စျေးနှုန်းဇယား:\n1000-1500\n2000-2000\nဆက်သွယ်ရန်- 09xxxxxxx",
+      "trigger_word": "2 in 1"
+    }
+  ]
+}
